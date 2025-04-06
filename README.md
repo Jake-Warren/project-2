@@ -1,4 +1,6 @@
 # 🛡️ Building a Cloud Honeynet + SOC in Azure (Single Windows VM, Live Traffic)
+![Gemini_Generated_Image_ox4etpox4etpox4e](https://github.com/user-attachments/assets/a37268c6-951a-455f-ab03-a349ced4d578)
+
 
 This project demonstrates how I created a lightweight honeynet using a **single Windows virtual machine** in **Microsoft Azure**, integrated logs into **Microsoft Sentinel**, and analyzed real-world attack traffic. I monitored the environment before and after applying security controls to highlight the effectiveness of basic hardening techniques.
 
